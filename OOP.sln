@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{10BDF5FE-3A1F-47BA-8166-54582B5D0EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4D20A216-A7EE-41CC-8B5D-52D3712883F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{0F02BB35-30F4-44E9-A0CA-758818DA1B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BDF5FE-3A1F-47BA-8166-54582B5D0EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BDF5FE-3A1F-47BA-8166-54582B5D0EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BDF5FE-3A1F-47BA-8166-54582B5D0EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BDF5FE-3A1F-47BA-8166-54582B5D0EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D20A216-A7EE-41CC-8B5D-52D3712883F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D20A216-A7EE-41CC-8B5D-52D3712883F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D20A216-A7EE-41CC-8B5D-52D3712883F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D20A216-A7EE-41CC-8B5D-52D3712883F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F02BB35-30F4-44E9-A0CA-758818DA1B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F02BB35-30F4-44E9-A0CA-758818DA1B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F02BB35-30F4-44E9-A0CA-758818DA1B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F02BB35-30F4-44E9-A0CA-758818DA1B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DBEF6FA-AEF1-430F-9388-384CD07B5EB7}
+	EndGlobalSection
+EndGlobal
