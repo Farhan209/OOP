@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{0F02BB35-30F4-44E9-A0CA-758818DA1B08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading", "Overloading\Overloading.csproj", "{BDC4D762-91A6-4BF1-8062-58CDA65C4726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overriding", "Overriding\Overriding.csproj", "{B6D0E47D-CEAD-4DF5-9733-FB19138DDA44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{0F02BB35-30F4-44E9-A0CA-758818DA1B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F02BB35-30F4-44E9-A0CA-758818DA1B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F02BB35-30F4-44E9-A0CA-758818DA1B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC4D762-91A6-4BF1-8062-58CDA65C4726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC4D762-91A6-4BF1-8062-58CDA65C4726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC4D762-91A6-4BF1-8062-58CDA65C4726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC4D762-91A6-4BF1-8062-58CDA65C4726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D0E47D-CEAD-4DF5-9733-FB19138DDA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D0E47D-CEAD-4DF5-9733-FB19138DDA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D0E47D-CEAD-4DF5-9733-FB19138DDA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D0E47D-CEAD-4DF5-9733-FB19138DDA44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
